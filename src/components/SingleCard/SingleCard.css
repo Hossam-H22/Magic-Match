@@ -1,0 +1,48 @@
+
+
+.card-play {
+    position: relative;
+}
+
+.card-play img {
+    width: 100%;
+    display: block;
+    border-radius: 6px;
+}
+
+.card-play .front{
+    position: absolute;
+    transform: rotateY(90deg);
+    transition: all ease-in-out 0.2s;
+}
+
+.flipped .front {
+    transform: rotateY(0deg);
+    transition-delay: 0.2s;
+}
+
+
+.card-play .back{
+    transition: all ease-in-out 0.2s;
+    transition-delay: 0.2s;
+    border: 1px solid #fff;
+}
+
+.flipped .back {
+    transform: rotateY(90deg);
+    transition-delay: 0s;
+}
+
+.selected {
+    border: 8px solid #000;
+}
+
+.disabled {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #00000048;
+    z-index: 1000;
+}

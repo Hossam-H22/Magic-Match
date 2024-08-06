@@ -1,0 +1,30 @@
+
+
+.result-card {
+    background-color: #fff;
+    color: #000;
+    height: fit-content;
+    padding: 40px 50px;
+    margin-top: 30px;
+    border-radius: 35px;
+    font-weight: bold;
+    box-shadow: 0px 0px 20px 11px #a3a3a3;
+    position: fixed;
+}
+
+
+.result-card button {
+    margin-top: 10px;
+    border: 2px solid #000;
+    color: #000;
+    border-radius: 15px;
+}
+
+.result-card button:hover {
+    background: #000;
+    color: #fff;
+}
+
+.winner {
+    color: #870505
+}
