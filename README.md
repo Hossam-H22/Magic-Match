@@ -30,15 +30,14 @@ I'm excited to hear your <u><a href="https://forms.gle/mUQJdnGPey1atnzp9" target
 
 ## Sample Photos 
 
-
-![1](https://github.com/user-attachments/assets/259d136b-e4aa-4d89-8835-e58c733331d9)
-
-<br>
-
-![2](https://github.com/user-attachments/assets/631e151d-30c4-4ff9-9319-e302b4a0fbb5)
+![1](https://github.com/user-attachments/assets/541058f0-23c8-46a3-963d-f5ff35c967fb)
 
 <br>
 
-![3](https://github.com/user-attachments/assets/af738aec-d70e-416b-ae23-feeeede94f49)
+![2](https://github.com/user-attachments/assets/69067b58-ed8a-4c32-8ee8-8a4620c639be)
+
+<br>
+
+![3](https://github.com/user-attachments/assets/511a7876-a951-4762-8eb9-481400a10cb4)
 
 <br>
